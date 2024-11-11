@@ -1,0 +1,259 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "High Performance Laptop",
+    "product_image": "https://cdn.pixabay.com/photo/2020/10/21/18/07/laptop-5673901_640.jpg",
+    "category": "computers",
+    "price": 1200.99,
+    "description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+    "specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Intel i7 Processor",
+      "15.6 inch Display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Gaming Desktop",
+    "product_image": "https://cdn.pixabay.com/photo/2018/03/27/00/50/child-3264751_640.jpg",
+    "category": "computers",
+    "price": 1500.99,
+    "description": "A powerful gaming desktop with 32GB RAM and NVIDIA graphics.",
+    "specification": ["32GB RAM", "1TB SSD", "NVIDIA RTX 3080", "RGB Lighting"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Ultrabook Laptop",
+    "product_image": "https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_640.jpg",
+    "category": "computers",
+    "price": 999.99,
+    "description": "A sleek ultrabook for professionals with excellent portability.",
+    "specification": [
+      "8GB RAM",
+      "256GB SSD",
+      "Intel i5 Processor",
+      "13.3 inch Display"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 4,
+    "product_title": "Business Laptop",
+    "product_image": "https://cdn.pixabay.com/photo/2022/11/03/15/24/coffee-7567749_640.jpg",
+    "category": "computers",
+    "price": 850.5,
+    "description": "A reliable laptop suitable for business and office tasks.",
+    "specification": ["8GB RAM", "512GB SSD", "Intel i5", "14 inch Display"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": 5,
+    "product_title": "All-in-One Desktop",
+    "product_image": "https://cdn.pixabay.com/photo/2022/01/20/17/51/office-desk-6952919_640.jpg",
+    "category": "computers",
+    "price": 1100.75,
+    "description": "A compact all-in-one desktop with a stunning display.",
+    "specification": [
+      "16GB RAM",
+      "1TB HDD",
+      "23.8 inch Display",
+      "Wireless Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 6,
+    "product_title": "Compact Gaming Laptop",
+    "product_image": "https://cdn.pixabay.com/photo/2024/01/10/16/21/laptop-8499942_640.jpg",
+    "category": "computers",
+    "price": 1300.0,
+    "description": "A compact and powerful gaming laptop for ultimate performance.",
+    "specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "NVIDIA GTX 1660",
+      "15.6 inch Display"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 7,
+    "product_title": "Chromebook",
+    "product_image": "https://cdn.pixabay.com/photo/2015/01/18/21/36/computer-603501_640.jpg",
+    "category": "computers",
+    "price": 299.99,
+    "description": "An affordable Chromebook for everyday tasks and browsing.",
+    "specification": ["4GB RAM", "64GB eMMC", "Chrome OS", "11.6 inch Display"],
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "Smartphone Pro Max",
+    "product_image": "https://cdn.pixabay.com/photo/2016/11/29/05/08/apple-1867461_640.jpg",
+    "category": "phones",
+    "price": 999.99,
+    "description": "A top-of-the-line smartphone with advanced features.",
+    "specification": [
+      "128GB Storage",
+      "Triple Camera",
+      "6.7 inch OLED Display",
+      "5G"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 9,
+    "product_title": "Budget Smartphone",
+    "product_image": "https://cdn.pixabay.com/photo/2016/11/29/12/30/phone-1869510_640.jpg",
+    "category": "phones",
+    "price": 199.99,
+    "description": "A budget-friendly smartphone with essential features.",
+    "specification": [
+      "32GB Storage",
+      "Dual Camera",
+      "5.5 inch LCD Display",
+      "4G"
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": 10,
+    "product_title": "Foldable Phone",
+    "product_image": "https://cdn.pixabay.com/photo/2016/11/22/23/40/hands-1851218_640.jpg",
+    "category": "phones",
+    "price": 1499.99,
+    "description": "A revolutionary foldable phone with a dynamic display.",
+    "specification": [
+      "256GB Storage",
+      "Quad Camera",
+      "7.6 inch AMOLED Display",
+      "5G"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": 11,
+    "product_title": "Smart Watch Series 6",
+    "product_image": "https://cdn.pixabay.com/photo/2015/06/25/17/22/smart-watch-821559_1280.jpg",
+    "category": "smart watches",
+    "price": 399.99,
+    "description": "An advanced smart watch with health and fitness tracking.",
+    "specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Waterproof",
+      "1.8 inch Display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 12,
+    "product_title": "Fitness Tracker",
+    "product_image": "https://cdn.pixabay.com/photo/2021/11/03/05/33/fitness-band-6764739_1280.jpg",
+    "category": "smart watches",
+    "price": 179.99,
+    "description": "A compact fitness tracker with step and sleep monitoring.",
+    "specification": ["Step Counter", "Sleep Monitor", "Battery Life: 10 Days"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 13,
+    "product_title": "Luxury Smart Watch",
+    "product_image": "https://cdn.pixabay.com/photo/2022/04/15/15/09/smart-watch-7134697_640.jpg",
+    "category": "smart watches",
+    "price": 499.99,
+    "description": "A luxury smart watch with premium design and features.",
+    "specification": [
+      "ECG Monitoring",
+      "Luxury Strap",
+      "1.9 inch AMOLED Display"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": 14,
+    "product_title": "Fast USB-C Charger",
+    "product_image": "https://cdn.pixabay.com/photo/2020/02/23/20/39/charging-phone-4874592_640.jpg",
+    "category": "chargers",
+    "price": 229.99,
+    "description": "A fast-charging USB-C charger for all your devices.",
+    "specification": ["30W Output", "Compact Size", "Overcharge Protection"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 15,
+    "product_title": "Wireless Charging Pad",
+    "product_image": "https://cdn.pixabay.com/photo/2015/01/18/14/16/phone-603048_640.jpg",
+    "category": "chargers",
+    "price": 939.99,
+    "description": "A sleek wireless charging pad with fast charging capability.",
+    "specification": ["15W Output", "Anti-Slip Surface", "LED Indicator"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 16,
+    "product_title": "Multi-Port USB Charger",
+    "product_image": "https://cdn.pixabay.com/photo/2020/02/24/06/15/cable-4875319_640.jpg",
+    "category": "chargers",
+    "price": 424.99,
+    "description": "A multi-port USB charger with smart device recognition.",
+    "specification": ["4 USB Ports", "Smart Charging", "Compact Design"],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "product_id": 17,
+    "product_title": "Portable Power Bank 20000mAh",
+    "product_image": "https://cdn.pixabay.com/photo/2015/09/05/21/48/power-bank-925569_640.jpg",
+    "category": "power banks",
+    "price": 649.99,
+    "description": "A high-capacity power bank with multiple charging options.",
+    "specification": ["20000mAh Capacity", "Fast Charging", "Dual USB Ports"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 18,
+    "product_title": "Compact Power Bank 10000mAh",
+    "product_image": "https://cdn.pixabay.com/photo/2015/03/27/14/44/promotional-products-694792_640.jpg",
+    "category": "power banks",
+    "price": 829.99,
+    "description": "A compact and lightweight power bank for daily use.",
+    "specification": ["10000mAh Capacity", "Slim Design", "USB-C Output"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 19,
+    "product_title": "Wireless Power Bank",
+    "product_image": "https://cdn.pixabay.com/photo/2015/03/27/14/44/promotional-products-694794_640.jpg",
+    "category": "power banks",
+    "price": 459.99,
+    "description": "A wireless power bank with Qi-enabled charging.",
+    "specification": [
+      "15000mAh Capacity",
+      "Wireless Charging",
+      "LED Indicator"
+    ],
+    "availability": false,
+    "rating": 4.6
+  }
+]
